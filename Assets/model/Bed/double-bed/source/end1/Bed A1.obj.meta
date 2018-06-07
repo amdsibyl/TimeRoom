@@ -37,7 +37,32 @@ ModelImporter:
     4300004: Materass002
     4300006: Materass_Bump01
     4300008: MetalStair
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedMat
+    second: {fileID: 2100000, guid: 07155b68c7dc1438584b22ac91083ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DadiMat
+    second: {fileID: 2100000, guid: e9c8e1a37e95a4576a40af89140d9618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materass002Mat
+    second: {fileID: 2100000, guid: 98a24056593d14c71b752d175acea679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materass_Bump01Mat
+    second: {fileID: 2100000, guid: 28f2512cda69a429fa74b8b2195b8e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalStairMat
+    second: {fileID: 2100000, guid: ce743936c1e3147ec91cdbaf7663222b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

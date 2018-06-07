@@ -18,7 +18,37 @@ ModelImporter:
     2300000: default
     3300000: default
     4300000: default
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KSide
+    second: {fileID: 2100000, guid: bcc0f8f089a874ebca4554bbf0bc9c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard
+    second: {fileID: 2100000, guid: 8defa4c6a61324405badfb65d8ba06a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaptopBase
+    second: {fileID: 2100000, guid: 6efa3b5536c8444bdb71da9bfdc5bd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen
+    second: {fileID: 2100000, guid: 11a0ef8b3696f499ab2238515b6386b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UnderKeyboard
+    second: {fileID: 2100000, guid: 03777b3cb24c047058ca88d5acb6df2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame
+    second: {fileID: 2100000, guid: 0d1210409658c4fe39227a9e8fbdd792, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

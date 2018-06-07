@@ -13,12 +13,17 @@ ModelImporter:
     2300000: disk2
     3300000: disk2
     4300000: disk2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk2Mat
+    second: {fileID: 2100000, guid: 6a1bc5f2f0be34c87a3dda89d4429f2a, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

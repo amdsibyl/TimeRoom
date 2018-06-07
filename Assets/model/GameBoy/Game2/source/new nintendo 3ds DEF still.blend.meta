@@ -184,7 +184,107 @@ ModelImporter:
     4300060: BezierCurve
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASE
+    second: {fileID: 2100000, guid: fc34ef452c2924f8fb99ea4178bb50fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOTTONI
+    second: {fileID: 2100000, guid: b8874fcad11b04a7781b055752314ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camera_tex
+    second: {fileID: 2100000, guid: 83e8489c772964a5fbcc3ec2f0022efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LCD
+    second: {fileID: 2100000, guid: 96669c806b51145ef9668dd1b2288923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pad
+    second: {fileID: 2100000, guid: be2bc64a95f514ac78940f5d67905398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camera
+    second: {fileID: 2100000, guid: 126b37ec53e1d439db7af56951124390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cartridge
+    second: {fileID: 2100000, guid: 6459152c85ccb413ba812a6bddada86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: connettore_metallo
+    second: {fileID: 2100000, guid: 007b4589060314bbea5cf79e63a8b348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: connettore_plastica
+    second: {fileID: 2100000, guid: 414cc0596d7444f5c873f5260d9a0fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copertura_base
+    second: {fileID: 2100000, guid: ad46acc029d9349bea0526afdf1bbb49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coperturatop
+    second: {fileID: 2100000, guid: 4b9604e868b844c239432a33493ce4db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gommini
+    second: {fileID: 2100000, guid: 131014480ab9b42a9b8c0dec3d34be39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oro_connettore
+    second: {fileID: 2100000, guid: 03ff2937570a64162be05ef9165fd3f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pirolo_3d
+    second: {fileID: 2100000, guid: 6d428e4f6ace1408b85d4da25da98c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pirolo_vol
+    second: {fileID: 2100000, guid: 2fff8689cfa5945bc9104b485de0116c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: placchette_metallo
+    second: {fileID: 2100000, guid: 1102eea963952464384f05e797fabf2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastica
+    second: {fileID: 2100000, guid: 9b94a98b05d7442678ed0faada488bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schermo
+    second: {fileID: 2100000, guid: 0d6628e306e5c4c1496d6706dee5737a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2100000, guid: 5494de51ce3c84487a7582ed42f15349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: touch_screen
+    second: {fileID: 2100000, guid: 2af409f453cdb42b18cdda257e23776a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -360,7 +360,22 @@ ModelImporter:
     4300126: Componen15
     4300128: Group_25_2
     4300130: Componen16
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_00
+    second: {fileID: 2100004, guid: 7be8cbd4d6b0941579bce5ebaac2136e, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_01
+    second: {fileID: 2100000, guid: 5db08dd9e00094e7cb34655bfbd62712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: derevo_V
+    second: {fileID: 2100000, guid: ea89914eabb5b08429af615197772af8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

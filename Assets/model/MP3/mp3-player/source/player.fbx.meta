@@ -36,7 +36,27 @@ ModelImporter:
     4300006: Object004
     4300008: Object005
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 4bc2ca5fe938441ccab17259bfdcf435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 849ba174ea3994919b716e9a98ddb8fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 70a8ae2b2952b4f5e9266a2550473167, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: player
+    second: {fileID: 2800000, guid: 2c268e78464c84ad7b9aed4f0c5bcb17, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

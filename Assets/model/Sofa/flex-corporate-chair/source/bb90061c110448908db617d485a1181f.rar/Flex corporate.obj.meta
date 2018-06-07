@@ -31,7 +31,27 @@ ModelImporter:
     4300002: Layer_FlexCorp_sobrebrazo_v1
     4300004: Layer_IGES_level_0
     4300006: Layer_Metal
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_ASIENTO02Mat
+    second: {fileID: 2100000, guid: 437ee3f4ab4f14f9b9b24372080464cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_FlexCorp_sobrebrazo_v1Mat
+    second: {fileID: 2100000, guid: c19b92190ef47406aa68fc83183b0b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_IGES_level_0Mat
+    second: {fileID: 2100000, guid: ed074c10796764b31a3e6d1d11376ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_MetalMat
+    second: {fileID: 2100000, guid: 881eff0a31f594d81875355fb68991f9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
