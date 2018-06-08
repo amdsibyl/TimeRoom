@@ -13,7 +13,12 @@ ModelImporter:
     2300000: Letto001_End
     3300000: Letto001_End
     4300000: Letto001_End
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Letto001_EndMat
+    second: {fileID: 2100000, guid: 14c96ab621a5444d08d8f8e7268da950, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
