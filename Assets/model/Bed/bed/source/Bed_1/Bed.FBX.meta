@@ -12,7 +12,22 @@ ModelImporter:
     3300000: //RootNode
     4300000: Bed
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: a00099e3ef8be449e930573379725b6b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bed_Diffuse
+    second: {fileID: 2800000, guid: 0e21692c2410f47938784e0ca6c9ad21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bed_Spec
+    second: {fileID: 2800000, guid: 4027518a2bdc94775aa656ea4bd73f3f, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

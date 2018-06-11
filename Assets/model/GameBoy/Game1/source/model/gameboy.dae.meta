@@ -1,24 +1,23 @@
 fileFormatVersion: 2
-guid: 04ba98b57a142433295003a25c11892b
-timeCreated: 1528131110
+guid: 879278931e5a442bbb04add187bda609
+timeCreated: 1528459500
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Plane019
-    100002: //RootNode
-    400000: Plane019
-    400002: //RootNode
-    2100000: Plane019Mat
-    2300000: Plane019
-    3300000: Plane019
-    4300000: Plane019
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lambert1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCylinder7
+    9500000: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Plane019Mat
-    second: {fileID: 2100000, guid: 763333c230f774e339cd04643a5f109a, type: 2}
+      name: lambert1
+    second: {fileID: 2100000, guid: 4d789828e91f740e2a7f7acbee2ea1e6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -92,7 +91,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

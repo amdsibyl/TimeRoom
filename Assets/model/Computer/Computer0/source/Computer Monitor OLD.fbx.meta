@@ -35,7 +35,22 @@ ModelImporter:
     4300004: BezierCircle
     4300006: Cube.004
     4300008: Cube.003
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc
+    second: {fileID: 2100000, guid: e8e361a8cfe9f460db644bca304ff8ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor
+    second: {fileID: 2100000, guid: c4de26035a9894cccbc027159738b6c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tower
+    second: {fileID: 2100000, guid: e85270384e658465caaf36c88c0b2abc, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

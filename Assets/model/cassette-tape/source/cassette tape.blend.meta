@@ -16,7 +16,27 @@ ModelImporter:
     4300000: cassette_tape
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_body
+    second: {fileID: 2100000, guid: bfe1994898d224324afa588cb9b4f976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_clear
+    second: {fileID: 2100000, guid: c2118d04671e94e7790f8a85a7f7436b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_tape
+    second: {fileID: 2100000, guid: 2a6a9a0bc9d7b4e819bec346c6e3e90e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_white
+    second: {fileID: 2100000, guid: fac8637f6d3674af385b32e641424068, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
